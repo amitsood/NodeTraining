@@ -1,0 +1,7 @@
+{
+	"name":"NodeArduino",
+	"version":"0.0.1",
+	"dependencies":{
+		"johnny-five":"*"
+	}
+}
